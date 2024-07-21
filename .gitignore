@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS
+/C Embedd.cdc830b4/x64/Debug
+/.vs/C Embedded System
